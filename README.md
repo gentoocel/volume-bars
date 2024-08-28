@@ -28,7 +28,7 @@ Install these dependencies using your package manager. For example:
 Installation
 
 1. Clone the Repository:
-   git clone https://github.com/yourusername/volume-bars.git
+   git clone https://github.com/gentoocel/volume-bars.git
 
 2. Navigate to the Project Directory:
    cd volume-bars
@@ -45,8 +45,3 @@ Usage
 - Decrease Volume: Press the - key or the left arrow key.
 - Mute/Unmute: Press the m key.
 - Exit: Press the ESC key or click outside the window.
-
-Troubleshooting
-
-- Program Doesn't Start: Ensure all dependencies are installed.
-- Volume Control Keys Not Working: Verify the program has permissions to control audio settings.
