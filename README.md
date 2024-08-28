@@ -50,17 +50,3 @@ Troubleshooting
 
 - Program Doesn't Start: Ensure all dependencies are installed.
 - Volume Control Keys Not Working: Verify the program has permissions to control audio settings.
-
-Contributing
-
-Contributions are welcome! Please see the CONTRIBUTING.md file for details on how to contribute.
-
-License
-
-Volume Bars is licensed under the MIT License. See LICENSE.md for details.
-
-Contact
-
-For questions or feedback, please open an issue on the GitHub repository at https://github.com/yourusername/volume-bars.
-
-Enjoy controlling your volume!
