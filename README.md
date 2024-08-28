@@ -34,7 +34,7 @@ Installation
    cd volume-bars
 
 3. Compile the Source Code:
-   gcc `pkg-config --cflags gtk+-3.0` -o volume-bars volume-bars.c `pkg-config --libs gtk+-3.0`
+   gcc 'pkg-config --cflags gtk+-3.0` -o volume-bars volume-bars.c `pkg-config --libs gtk+-3.0`
 
 4. Run the Program:
    ./volume-bars
